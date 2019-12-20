@@ -3,16 +3,18 @@
 Este proyecto se creó como punto de partida para ejemplificar el consumo de los servicios web de Intralix.
 
 ## Dependencias necesarias
+
 Se utiliza la librería  [Guzzle PHP HTTP client](http://docs.guzzlephp.org/en/stable/) para realizar solicitudes HTTP.
-Se utilizar el gestor de paquetes [composer](https://getcomposer.org/) para instalar las dependencias necesarias del proyecto. 
+
+Se utiliza el gestor de paquetes [composer](https://getcomposer.org/) para instalar las dependencias necesarias del proyecto. 
 
 ### Instalación de Composer para Windows
 
-Download from: https://getcomposer.org/download/
+Descargar de: https://getcomposer.org/download/
 
 ### Instalación de Composer - Linux / Unix / macOS
 
-Get instructions: https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
+Obtener instrucciones de: https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
 
 ## Instrucciones
 #### Clonar Repositorio:
